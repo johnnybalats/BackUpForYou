@@ -1,2 +1,0 @@
-# BackUpForYou
-MySQL Backup Project
