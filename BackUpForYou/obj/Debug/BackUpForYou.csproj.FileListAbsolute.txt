@@ -8,3 +8,6 @@ E:\ΣΧΟΛΗ\7ο Εξάμηνο\BackUpForYou\BackUpForYou\BackUpForYou\bin\Debu
 E:\ΣΧΟΛΗ\7ο Εξάμηνο\BackUpForYou\BackUpForYou\BackUpForYou\obj\Debug\BackUpForYou.exe
 E:\ΣΧΟΛΗ\7ο Εξάμηνο\BackUpForYou\BackUpForYou\BackUpForYou\obj\Debug\BackUpForYou.pdb
 E:\ΣΧΟΛΗ\7ο Εξάμηνο\BackUpForYou\BackUpForYou\BackUpForYou\obj\Debug\BackUpDb.Form1.resources
+C:\Users\swthrhs\Documents\GitHubVisualStudio\BackUpForYou\BackUpForYou\bin\Debug\BackUpForYou.exe.config
+C:\Users\swthrhs\Documents\GitHubVisualStudio\BackUpForYou\BackUpForYou\obj\Debug\BackUpForYou.exe
+C:\Users\swthrhs\Documents\GitHubVisualStudio\BackUpForYou\BackUpForYou\obj\Debug\BackUpForYou.pdb
